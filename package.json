@@ -1,0 +1,23 @@
+{
+  "name": "trade-monitoring-bot-v2",
+  "version": "1.0.1",
+  "description": "Monitoring in Real Time price of BTC and etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "Bitcoin",
+    "BTC",
+    "Monitoring",
+    "price",
+    "status"
+  ],
+  "author": "Ivoop (Ivan.K)",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1",
+    "node-fetch": "^2.3.8"
+  }
+}
